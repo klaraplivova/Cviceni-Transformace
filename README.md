@@ -1,5 +1,7 @@
 # Cvičení: Transformace
 
+V tomto cvičení přidej tvé vlastní styly do souboru `style.css`.
+
 ## Kočka
 
 1. Pohlaď kočku.
