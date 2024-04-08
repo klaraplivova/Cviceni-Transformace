@@ -48,3 +48,20 @@ h2 {
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
 
+/* kocka  */
+
+.kocka:active {
+	transform: scaleY(0.9);
+	transform-origin: bottom;
+}
+
+/* houpacka */
+
+.houpacka__deti {
+	transform: rotate(-15deg);
+	transform-origin: 50% 75%;
+}
+
+.houpacka:active .houpacka__deti{
+	transform: rotate(15deg);
+}
